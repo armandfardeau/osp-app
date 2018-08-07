@@ -13,7 +13,7 @@ gem "decidim-export", git: "https://github.com/OpenSourcePolitics/decidim-user-e
 gem "puma", "~> 3.0"
 gem "uglifier", ">= 1.3.0"
 
-gem "faker", "~> 1.8.4"
+gem "faker", "~> 1.9.1"
 
 group :development, :test do
   gem "byebug", platform: :mri
